@@ -3,7 +3,7 @@ Tema per documentazione di Docs.Italia.IT
 
 ## Come utilizzare il tema nella propria documentazione
 
-Le operazioni vanno eseguite dentro la cartella del documento su cui si sta lavorando.
+Le operazioni vanno eseguite dentro la cartella del documento su cui si sta lavorando e il documento deve essere già un repository git inizializzato e configurato (git init... add origin...) 
 
 ### Aggiungere il repo del tema e caricarlo
 ```
